@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cutetryhard325
+- 👋 Hi, I’m a person
 - 👀 I’m interested in programming some things
 - 🌱 I’m currently learning front-end for sites
 - 💞️ I’m looking to collaborate on classbuild
